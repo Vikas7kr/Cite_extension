@@ -1,0 +1,16 @@
+{
+    "name":"CITE",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":
+    {
+        "default_popup":"popup.html"
+    },
+    "icons":
+    {
+        "128":"icons/1.png",
+        "64":"icons/2.png",
+        "16":"icons/3.png"
+    },
+    "permissions":["activeTab"]
+}
